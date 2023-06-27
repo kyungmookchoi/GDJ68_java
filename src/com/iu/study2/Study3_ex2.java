@@ -13,7 +13,7 @@ public class Study3_ex2 {
 		boolean loginResult=false;
 	
 		//로그인 과정
-		//아이디,패스워드 입력받아서 로그인 처리
+		//아이디,패스워드 입력받아서 로그인 처리!
 		//로그인 성공,로그인 실패 출력
 		System.out.println("로그인 메뉴입니다.");
 		System.out.println("아이디를 입력하세요.");
