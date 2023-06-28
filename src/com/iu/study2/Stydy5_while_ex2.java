@@ -34,7 +34,7 @@ public class Stydy5_while_ex2 {
 
 	            if (choice == 1) {
 	                System.out.println("몬스터를 사냥했습니다!");
-	                exp++;
+	                exp = exp+3;
 
 	                if (exp >= requiredExp) {
 	                    System.out.println("레벨업을 달성하였습니다!");
