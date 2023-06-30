@@ -1,5 +1,8 @@
 package com.iu.study4.s2;
 
-public class makeStudentOne {
+import java.util.Scanner;
 
+public class makeStudentOne {
+	
+	 
 }
